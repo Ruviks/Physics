@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Rufin/source/repos/PEngine/PEngine/Content/dot.png","C:/Users/Rufin/source/repos/PEngine/PEngine/Content/bin/Windows/dot.xnb","TextureProcessor","Texture2DContent",8562,360085,0.155408
+"C:/Users/Rufin/source/repos/PEngine/PEngine/Content/particle.png","C:/Users/Rufin/source/repos/PEngine/PEngine/Content/bin/Windows/particle.xnb","TextureProcessor","Texture2DContent",38243,661,0.0060008
